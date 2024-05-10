@@ -12,6 +12,7 @@ User logout with cookie clearing
 
 MongoDB for data storage
 
+
 Prerequisites
 
 Node.js installed on your machine
@@ -27,7 +28,7 @@ Installation
    
 git clone https://github.com/yourusername/backend-assignment.git
 
-3. Install dependencies:
+2. Install dependencies:
    
 cd backend-assignment
 
@@ -36,13 +37,13 @@ cd backend
 npm install
 
 
-5. Set up environment variables:Create a .env file in the root of the project and add the following:
+3. Set up environment variables:Create a .env file in the root of the project and add the following:
    
 MONGO_URL=your_mongodb_url
 
 JWT_SECRET=your_jwt_secret
 
 
-7. Start the server:
+4. Start the server:
    
 npm start

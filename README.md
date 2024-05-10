@@ -26,7 +26,7 @@ Installation
 
 1. Clone the repository:
    
-git clone https://github.com/yourusername/backend-assignment.git
+git clone https://github.com/tusharrr622/backend-assignment.git
 
 2. Install dependencies:
    

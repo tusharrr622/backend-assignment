@@ -1,4 +1,5 @@
 Node.js Authentication API
+
 This is a simple Node.js authentication API using Express, MongoDB, and JWT for token-based authentication. It provides endpoints for user registration, login, and logout.
 
 Features
